@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C/C++, Python, Java, Flutter**
 
-- 📫 Reach me at **abhijitdebnath737@gmail.com**
+- 📫 Reach me at **abhijitdn737@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

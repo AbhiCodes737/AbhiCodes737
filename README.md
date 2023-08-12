@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhijit Debnath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
 - 🤝 I’m looking for help with **open-source oppurtunities**
 
-- 💬 Ask me about **C/C++, Python, Java, Flutter**
+- 💬 Ask me about **C/C++, Python, Java**
 
 - 📫 Reach me at **abhijitdn737@gmail.com**
 
